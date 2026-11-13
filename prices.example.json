@@ -1,0 +1,7 @@
+{
+  "_comment": "Replace with your models and CURRENT prices from each provider's pricing page. USD per 1 million tokens. Key format: <provider>/<model id>.",
+  "openai/your-model-id": { "input_per_1m": 0.0, "output_per_1m": 0.0 },
+  "anthropic/your-model-id": { "input_per_1m": 0.0, "output_per_1m": 0.0 },
+  "gemini/your-model-id": { "input_per_1m": 0.0, "output_per_1m": 0.0 },
+  "groq/your-model-id": { "input_per_1m": 0.0, "output_per_1m": 0.0 }
+}
